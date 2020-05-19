@@ -1,3 +1,7 @@
 pomba
 entendendo o HEAD
+<<<<<<< HEAD
 ojfo
+=======
+esta linha foi modificada no ramo testino
+>>>>>>> testino
